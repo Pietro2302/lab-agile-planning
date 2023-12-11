@@ -1,9 +1,9 @@
 ---
-Name: User Story
-About: This template is for creating user stories
-Title: ''
-Labels: ''
-Sssignees: ''
+name: User Story
+about: This template is for creating user stories
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
@@ -12,7 +12,7 @@ Sssignees: ''
  **So that** [benefit]  
    
  ### Details and Assumptions
- * [Document what you know]
+ * [document what you know]
    
  ### Acceptance Criteria  
    
